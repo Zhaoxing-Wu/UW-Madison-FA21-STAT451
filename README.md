@@ -1,4 +1,4 @@
-# UW-Madison FA21 STAT 451
+# UW-Madison FA21 STAT 451 Introduction to Machine Learning and Statistical Pattern Classification
 Final project repo of Group 26 owned by Zhaoxing (Bella) Wu.
 
 Professor Name: Sebastian Raschka
